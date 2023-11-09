@@ -1,0 +1,8 @@
+package helloWorld;
+
+public class Neelesh {
+	public static void main(String[] args) {
+		Harsh harsh1 = new Harsh();
+		System.out.println(harsh1.eatingStyle());
+	}
+}

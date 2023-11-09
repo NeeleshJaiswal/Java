@@ -1,0 +1,13 @@
+package claculator;
+
+public class TestCalculator {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Calculator anshulCalculator = new Calculator();
+		int result = anshulCalculator.addByHundred(99); 
+		System.out.println(result);
+	}
+
+}

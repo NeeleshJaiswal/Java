@@ -1,0 +1,21 @@
+package claculator;
+
+public class Calculator {
+//	accessModifire returnType methodName ( input params) {
+//		//LOGIC
+//		return or nothing
+//
+//}
+//	int a = 1;
+//	int b = 4;
+	public int addMethod (int a, int b) {
+		
+//		int a = 1;
+//		int b = 4;
+		// logic
+		int sum = a + b;
+		return sum; // result 
+	}
+	
+
+}

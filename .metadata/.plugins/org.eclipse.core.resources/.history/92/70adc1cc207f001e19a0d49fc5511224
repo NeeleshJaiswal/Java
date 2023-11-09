@@ -1,0 +1,15 @@
+package claculator;
+
+public class Calculator {
+//	accessModifire returnType methodName ( input params) {
+//		//LOGIC
+//		return or nothing
+//
+//}
+	public double addMethod () {
+		// logic
+		return 0.0; // result 
+	}
+	
+
+}

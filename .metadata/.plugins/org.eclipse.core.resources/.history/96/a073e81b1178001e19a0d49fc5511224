@@ -1,0 +1,30 @@
+package helloWorld;
+
+public class Harsh {
+	
+		//human, male, height, age, occupation //instance variable
+		public String gender = "male";
+		private int age = 22;
+		public static String country = "Canada";
+		public String surname = "Jaiswal";
+		public float firstValue = 22.139999f;
+		public double secondValue = 22.13999999999d;
+		
+		public String getName() {
+			String name = "Harsh";
+			return name;
+		}
+		
+		public static String eatingStyle() {
+			if(country == "India") {
+				return "byHand";
+			} else {
+				return "byCutleries";
+			}
+		}
+		//Local Variables - inside methods
+		//Class Variables (Static Variables)
+		//Instance Variables (Non-static Variables)
+	
+
+}

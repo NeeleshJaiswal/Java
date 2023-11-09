@@ -1,0 +1,31 @@
+package helloWorld;
+
+public class Harsh {
+	
+		//human, male, height, age, occupation //instance variable
+		public String gender = "male";
+		public int age = 22;
+		public String country = "Canada";
+		
+		
+		public String getName() {
+			return "Harsh";
+		}
+		
+		public String eatingStyle() {
+			if(country == "India") {
+				return "byHand";
+			} else {
+				return "byCutleries";
+			}
+		}
+				
+				// TODO Auto-generated method stub
+		
+		// behavior goingCollege, eating, doExercise // methods
+		
+		// eating // fast or slow eater // byHand or byCutleries(spoon/fork)
+		
+	
+
+}

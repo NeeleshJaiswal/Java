@@ -1,0 +1,13 @@
+package helloWorld;
+
+public class Neelesh {
+	public static void main(String[] args) {
+		Harsh harsh1 = new Harsh();
+		Harsh harsh2 = new Harsh();
+		Harsh harsh3 = new Harsh();
+		Harsh harsh4 = new Harsh();
+		Harsh harsh5 = new Harsh();
+		System.out.println(harsh3.eatingStyle());
+		System.out.println(harsh5.getName());
+	}
+}
